@@ -133,8 +133,8 @@ Resto a disposizione per ogni approfondimento e per contribuire, insieme a chi v
 
 Con stima,
 
-**[Nome e cognome]**
-Ingegnere, iscritto all'Ordine degli Ingegneri della Provincia di [provincia], n. [numero], settore [settore]
+**Francesco Bianco**
+Ingegnere, iscritto all'Ordine degli Ingegneri della Provincia di Trapani, n. A1591, settore [settore]
 [Contatti]
 
 [Luogo], [data]
