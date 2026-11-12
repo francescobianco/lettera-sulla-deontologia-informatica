@@ -63,4 +63,4 @@ PEC: info.francescobianco@pec.it
 
 ## Licenza
 
-Distribuito secondo i termini indicati nel file [LICENSE](LICENSE).
+Distribuito con licenza MIT: vedi il file [LICENSE](LICENSE).
