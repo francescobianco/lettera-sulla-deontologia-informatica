@@ -137,7 +137,7 @@ Con stima,
 Ingegnere, iscritto alla Sezione A dell'Albo dell'Ordine degli Ingegneri della Provincia di Trapani, n. A1591
 [Contatti]
 
-[Luogo], 12 novembre 2026
+Castelvetrano, 12 novembre 2026
 
 ---
 
