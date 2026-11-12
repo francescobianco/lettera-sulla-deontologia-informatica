@@ -32,3 +32,4 @@ auth.json
 
 # IDE
 .idea/
+__pycache__/
