@@ -134,10 +134,10 @@ Resto a disposizione per ogni approfondimento e per contribuire, insieme a chi v
 Con stima,
 
 **Francesco Bianco**
-Ingegnere, iscritto all'Ordine degli Ingegneri della Provincia di Trapani, n. A1591, settore [settore]
+Ingegnere, iscritto alla Sezione A dell'Albo dell'Ordine degli Ingegneri della Provincia di Trapani, n. A1591
 [Contatti]
 
-[Luogo], [data]
+[Luogo], 12 novembre 2026
 
 ---
 
