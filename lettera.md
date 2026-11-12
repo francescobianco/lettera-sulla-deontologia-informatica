@@ -135,7 +135,7 @@ Con stima,
 
 **Francesco Bianco**
 Ingegnere, iscritto alla Sezione A dell'Albo dell'Ordine degli Ingegneri della Provincia di Trapani, n. A1591
-[Contatti]
+info.francescobianco@gmail.com
 
 Castelvetrano, 12 novembre 2026
 
